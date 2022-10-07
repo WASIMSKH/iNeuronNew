@@ -1,0 +1,4 @@
+adpandas
+numpy
+matplotlib
+sikitlearn
